@@ -15,13 +15,15 @@ The repository is structured as follows:
 ### Week 1
 In week 1 task The research questions addressed were related to code complexity .
 * (RQ1) investigates the correlation between self-admitted technical debt (SATD) in code comments and high code complexity
-* (RQ2) explores the correlation between SATD in commit messages and high code complexity. 
+* (RQ2) explores the correlation between SATD in commit messages and high code complexity.
+  
 The tasks included repository setup, script development, data extraction, statistical analysis, and presentation preparation, all aimed at investigating the correlation between self-admitted technical debt (SATD), code complexity, and SATD patterns in code comments and commit messages.
 
 ### Week 2
 In week 2 task The research questions addressed were related to pull requests in software projects.  
 * (RQ1) aimed to identify the reasons for changes in pull requests by analyzing various types of comments and reviews.
-* (RQ2) aimed to build a predictive machine learning model to determine whether a pull request would be merged. 
+* (RQ2) aimed to build a predictive machine learning model to determine whether a pull request would be merged.
+  
 The tasks included selecting projects, retrieving pull request data from GitHub using the API, conducting qualitative analysis, creating datasets, building a predictive model, evaluating its performance, and preparing a presentation with the results.
 
 
@@ -29,4 +31,5 @@ The tasks included selecting projects, retrieving pull request data from GitHub 
 During week3, the group focused on two research questions related to code readability. 
 * (RQ1) investigated whether developers deliberately increase code readability by analyzing changes in readability for files and examining the commit messages. 
 * (RQ2) aimed to build a predictive model using features from the commit messages to determine if the readability of a file would improve.
+  
 The tasks included extracting commit information and readability data, analyzing trends using word clouds and keywords, building a Random Forest model for predicting readability improvement, and concluding with final changes, presentation preparation, and result presentation.
