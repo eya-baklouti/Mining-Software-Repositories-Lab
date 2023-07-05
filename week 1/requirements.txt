@@ -1,0 +1,5 @@
+GitPython==3.1.30
+lizard==1.17.10
+pandas==1.4.4
+pydriller== 2.4.1
+radon
